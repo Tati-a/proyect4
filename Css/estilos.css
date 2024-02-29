@@ -1,0 +1,128 @@
+*
+{
+    margin: 20px;
+}
+#principal{
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height: 1000px;
+    background-color: rgb(0, 0, 0);
+
+}
+#caja1
+{
+    margin: auto;
+    margin-top: 20px;
+    width: 560px;
+    height: 100px;
+    background-color: rgb(191, 209, 25);
+}
+#caja11
+{
+    margin-top: 50px;
+    margin: left;
+    margin-top: 20px;
+    width: 40px;
+    height: 100px;
+    background-color: rgb(233, 153, 3);
+}
+#caja2{
+    width: 560px;
+    height: 100px;
+    background-color: rgb(219, 154, 13);
+}
+#caja3{
+    float: left;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgb(136, 223, 22);
+}
+#caja4{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(228, 22, 22);
+}
+#Mprincipal{
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 30px;
+    border-style: solid;
+    width: 600px;
+    height: 800px;
+    background-color: rgb(105, 62, 129);
+
+}
+#Mcaja1
+{
+    margin: auto;
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background-color: rgb(255, 255, 255);
+}
+#Mcaja11
+{
+    float: left;
+    margin-top: 100px;
+    width: 40px;
+    height: 70px;
+    background-color: rgb(63, 43, 5);
+}
+#Mcaja2{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgb(255, 255, 255);
+}
+#Mcaja3{
+
+    margin: auto;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background-color:  rgb(255, 255, 255);
+}
+#caja4{
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(228, 22, 22);
+}
+#ojo1{
+    margin-top: 50px;
+    float: left;
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 50px;
+}
+#ojo2{
+    margin-top: 50px;
+    float: right;
+    height: 20px;
+    width: 20px;
+    border-radius: 50px;
+    background-color: black;
+}
+#nariz{
+    margin-top: 50px;
+    margin: auto;
+    height: 40px;
+    width: 60px;
+    border-radius: 100px;
+    background-color: rgb(247, 132, 0);
+}
+#Mcaja12{
+    float: right;
+    margin-top: 100px;
+    width: 40px;
+    height: 70px;
+    background-color: rgb(63, 43, 5);
+}
